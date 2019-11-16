@@ -5,7 +5,7 @@ Text based game library created to make making text based games even easier.
 -HTML, CSS, & JS based in electron.
 
 # Versatility and Application
--built with electron to easily convert html/css/js into a desktop enviroment. 
+-Built with electron to easily convert html/css/js into a desktop enviroment. 
 
 # Installation
 - MUST HAVE GIT, NPM, AND NODE.JS Installed!
