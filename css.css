@@ -1,0 +1,60 @@
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scrollbar;
+  -webkit-tap-highlight-color: transparent;
+}
+
+div.spacer
+{
+    font-size: 0;
+    height: 10px;
+    line-height: 0;
+}
+
+h1.tophead
+{
+font-size: 60px;
+color: #fff;
+}
+
+h1.topheadb
+{
+font-size: 60px;
+color: #000000;
+}
+
+h2.toptext
+{
+
+font-size: 40px;
+
+}
+p.filler
+{
+
+font-size: 30px;
+
+}
+
+
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: darkred;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}

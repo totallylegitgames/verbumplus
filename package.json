@@ -1,0 +1,22 @@
+{
+  "name": "verbumplus",
+  "version": "0.0.1",
+  "description": "sample",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/RossTheDev/verbumplus",
+  "keywords": [
+    "text",
+    "adventure",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Rossp",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
