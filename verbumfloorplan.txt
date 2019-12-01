@@ -1,0 +1,30 @@
+initial setup;
+finish steps in the readme then navigate to your index.html, add needed css if need be then
+go on to prep your project
+
+x- button to go to prep -x
+
+prepping your project;
+setup index landing page with everything you want
+then make button to first part of the game or p1 example: (HTML DIV CODE)
+
+Scenes and trasistions:
+setup your first scene with the same start and end as your index.html (example picture of a clean html file with just header and footer shit. with button code example as transistion
+
+Loading Images and Gifs:
+p loading images and gifs are very easy. Example:
+
+Show example of div with img tag and then show div with gif tag
+
+Backgrounds:
+Show example of backgrounnd code
+
+button to next scene
+
+DONE ^^^
+
+TO DO:
+
+Dynamic Objects
+
+
