@@ -22,5 +22,5 @@ npm install
 npm start
 ```
 # Status: 
-Framework is finished and ready to be used. Starting on the example games.
+Framework is finished and ready to be used. Only the example games are left to be finished.
 
