@@ -21,5 +21,5 @@ npm install
 # Run the app
 npm start
 ```
-# Status: early development.
+# Status: Framework is finished and ready to be used. Starting on the example games.
 
