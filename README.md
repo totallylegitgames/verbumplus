@@ -22,6 +22,6 @@ npm install
 npm start
 ```
 # Status: 
-Framework is finished and ready to be used. The first example game is in progress and will be uploaded here: [Click Adventure](https://github.com/RossTheDev/ClickAdventure)
+Framework is finished and ready to be used. The first example game is in progress and will be uploaded here: [Click Adventure.](https://github.com/RossTheDev/ClickAdventure)
 
 
