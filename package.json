@@ -1,12 +1,12 @@
 {
   "name": "verbumplus",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "description": "sample",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/RossTheDev/verbumplus",
+  "repository": "https://github.com/totallylegitgames/verbumplus",
   "keywords": [
     "text",
     "adventure",
